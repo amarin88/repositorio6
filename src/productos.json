@@ -1,0 +1,38 @@
+[
+    {
+    "id": 1,
+    "title": "Coca-Cola",
+    "description": "Refresco carbonatado",
+    "price": 1.50,
+    "thumbnail": "coca_cola.jpg",
+    "stock": 100,
+    "code": "001"
+    },
+    {
+"id": 2,
+    "title": "Pepsi",
+    "description": "Refresco de cola",
+    "price": 1.25,
+    "thumbnail": "pepsi.jpg",
+    "stock": 80,
+    "code": "002"
+    },
+    {
+    "id": 3,
+    "title": "Sprite",
+    "description": "Refresco lima-limón",
+    "price": 1.00,
+    "thumbnail": "sprite.jpg",
+    "stock": 120,
+    "code": "003"
+    },
+    {
+    "id": 4,
+    "title": "Fanta",
+    "description": "Refresco de naranja",
+    "price": 1.10,
+    "thumbnail": "fanta.jpg",
+    "stock": 90,
+    "code": "004"
+    }
+  ]
